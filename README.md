@@ -119,9 +119,6 @@ Ridge and Lasso models produced similar performance to Linear Regression
 
 RMSE represents the average prediction error in dollars
 
-Author
-
-Final project for the Foundation of Data Science Lab.
 
 License
 
